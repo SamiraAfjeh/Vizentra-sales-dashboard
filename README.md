@@ -47,13 +47,21 @@ Insights:
 
 ---
 
-## 🔍 Drill-through Analysis
+## 🔍 Drill-Through Analysis
+### Drill-Through Categories 
+
 ![Drill Category](Images/6-DrillThrough_Category.png)
-![Drill Countries](Images/6-DrillThrough_Country.png)
-![Drill Channel](Images/6-DrillThrough_Channel.png)
+
+### Drill-Through Countries
+
+![Drill Countries](Images/7-DrilThrough_Country.png)
+
+### Drill-Through Channels
+
+![Drill Channel](Images/5-DrillThrough_Channel.png)
 Users can explore:
 - Countries  
-- Channel  
+- Channels  
 - Categories  
 
 ---

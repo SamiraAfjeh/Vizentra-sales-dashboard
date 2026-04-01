@@ -1,6 +1,6 @@
 # 📊 Vizentra Sales & Profitability Dashboard
 
-![Executive](./images/Executive.png)
+![Executive](.Vizentra-sales-dashboard/images/Executive.png)
 
 ## 🚀 Project Overview
 An end-to-end Business Intelligence project built with Power BI, focused on analyzing sales performance, profitability, and operational efficiency.

@@ -1,6 +1,6 @@
 # 📊 Vizentra Sales & Profitability Dashboard
 
-![Executive](.Vizentra-sales-dashboard/images/Executive.png)
+![Executive](Images/Executive.png)
 
 ## 🚀 Project Overview
 An end-to-end Business Intelligence project built with Power BI, focused on analyzing sales performance, profitability, and operational efficiency.
@@ -8,7 +8,7 @@ An end-to-end Business Intelligence project built with Power BI, focused on anal
 ---
 
 ## 📊 Executive Overview
-![Executive](images/Executive.png)
+![Executive](Images/Executive.png)
 
 - Total Sales: $50.19M  
 - Profit: $7M  
@@ -21,7 +21,7 @@ Key Insights:
 ---
 
 ## 🛍 Product Analysis
-![Product](images/2-Finance Summary.png)
+![Product](Images/2-Finance_Summary.png)
 
 Insights:
 - Bikes generate high revenue but low margins  
@@ -30,7 +30,7 @@ Insights:
 ---
 
 ## 💰 Financial Analysis
-![Financial](images/2-Finance Summary.png)
+![Financial](Images/2-Finance_Summary.png)
 
 Insights:
 - Costs closely aligned with revenue  
@@ -48,11 +48,12 @@ Insights:
 ---
 
 ## 🔍 Drill-through Analysis
-![Drill](images/drillthrough.png)
-
+![Drill Category](Images/6-DrillThrough_Category.png)
+![Drill Countries](Images/6-DrillThrough_Country.png)
+![Drill Channel](Images/6-DrillThrough_Channel.png)
 Users can explore:
 - Countries  
-- Products  
+- Channel  
 - Categories  
 
 ---

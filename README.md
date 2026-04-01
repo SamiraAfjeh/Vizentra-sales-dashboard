@@ -8,7 +8,7 @@ An end-to-end Business Intelligence project built with Power BI, focused on anal
 ---
 
 ## 📊 Executive Overview
-![Executive](images/1-Executive Overview.png)
+![Executive](images/Executive.png)
 
 - Total Sales: $50.19M  
 - Profit: $7M  

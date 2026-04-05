@@ -21,7 +21,7 @@ Key Insights:
 ---
 
 ## 🛍 Product Analysis
-![Product](Images/2-Finance_Summary.png)
+![Product](Images/3-Product_Analysis.png)
 
 Insights:
 - Bikes generate high revenue but low margins  
